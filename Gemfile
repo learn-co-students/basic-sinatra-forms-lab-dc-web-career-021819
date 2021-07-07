@@ -9,6 +9,7 @@ gem 'rake'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
+gem 'byebug'
 gem 'require_all'
 
 group :test do
